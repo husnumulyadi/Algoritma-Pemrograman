@@ -1,60 +1,66 @@
-Software Requirements
+# Kelompok 9 - Manajemen Distribusi Frozen Food
+#### Informasi Kelompok
+1. Husnu Mulyadi (24120300013)
+2. Muhamad Febri (24120300011)
+3. Alvin Romdhoni Zulfikar (24120500010)
 
-Kelompok 9 - Manajemen Distribusi Frozen Food
+## Software Requirements
 
-**Software Requirements**
+### Owner
 
-### Kelompok 9 - Manajemen Distribusi Frozen Food
+#### 1. Temperature Control
 
-• Sebagai Owner:
-   a. Temperature Control:
-      i. Monitoring Suhu:
-         1. Saya ingin input suhu freezer:
-            - ID freezer
-            - Suhu terkini
-            - Waktu pengukuran
-         2. Saya ingin lihat riwayat suhu per freezer
-      ii. Quality Assurance:
-         1. Saya ingin input data produk:
-            - Kode produk
-            - Tanggal expired
-            - Jumlah stok
-         2. Saya ingin lihat produk hampir expired
+##### A. Monitoring Suhu
+1. Input suhu freezer:
+   - ID freezer
+   - Suhu terkini
+   - Waktu pengukuran
+2. Lihat riwayat suhu per freezer
 
-   b. Branch Management:
-      i. Kontrol Stok:
-         1. Saya ingin lihat stok per cabang
-         2. Saya ingin input transfer antar cabang:
-            - Cabang asal
-            - Cabang tujuan
-            - Produk dan jumlah
-      ii. Performa Cabang:
-         1. Saya ingin lihat penjualan per cabang
-         2. Saya ingin lihat produk terlaris
+##### B. Quality Assurance
+1. Input data produk:
+   - Kode produk
+   - Tanggal expired
+   - Jumlah stok
+2. Lihat produk hampir expired
 
-• Sebagai Staff:
-   c. Storage Operation:
-      i. Penyimpanan:
-         1. Saya ingin catat lokasi produk:
-            - Kode produk
-            - Nomor rak
-         2. Saya ingin lihat isi tiap rak
-      ii. Pemeriksaan Rutin:
-         1. Saya ingin input pengecekan harian:
-            - Kondisi produk (baik/rusak)
-            - Suhu freezer
-         2. Saya ingin lihat jadwal pembersihan
+#### 2. Branch Management
 
-   d. Sales Operation:
-      i. Proses Penjualan:
-         1. Saya ingin input penjualan:
-            - Kode produk
-            - Jumlah
-         2. Saya ingin lihat stok tersedia
-      ii. Maintenance:
-         1. Saya ingin input pembersihan freezer
-         2. Saya ingin lihat riwayat pembersihan
+##### A. Kontrol Stok
+1. Lihat stok per cabang
+2. Input transfer antar cabang:
+   - Cabang asal
+   - Cabang tujuan
+   - Produk dan jumlah
 
+##### B. Performa Cabang
+1. Lihat penjualan per cabang
+2. Lihat produk terlaris
 
+### Staff
 
+#### 1. Storage Operation
 
+##### A. Penyimpanan
+1. Catat lokasi produk:
+   - Kode produk
+   - Nomor rak
+2. Lihat isi tiap rak
+
+##### B. Pemeriksaan Rutin
+1. Input pengecekan harian:
+   - Kondisi produk (baik/rusak)
+   - Suhu freezer
+2. Lihat jadwal pembersihan
+
+#### 2. Sales Operation
+
+##### A. Proses Penjualan
+1. Input penjualan:
+   - Kode produk
+   - Jumlah
+2. Lihat stok tersedia
+
+##### B. Maintenance
+1. Input pembersihan freezer
+2. Lihat riwayat pembersihan
